@@ -1,0 +1,128 @@
+
+.a {
+  background-color:  #FF671F;
+  width: 300px;
+  height: 50px;
+}
+
+.b {
+  background-color: #FFFFFF;
+  width: 300px;
+  height: 50px;
+  position: relative; 
+}
+
+.c {
+  background-color:  #046A38;
+  width: 300px;
+  height: 50px;
+}
+
+.b > img {
+  height: 45px;
+  position: absolute;
+  top: 2px;
+  left: 120px;
+}
+
+.flag {
+  display: inline-block;
+  margin: 40px;
+  text-align: center;
+}
+
+.d {
+  background-color: #FFFFFF;
+  width: 300px;
+  height: 150px;
+}
+body{
+    background-color:#6de7aa;
+}
+.e
+{
+    background-color: #BD0029;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    top: 25px;
+    left: 90px
+}
+.f{
+    background-color: #008C45;
+    height: 150px;
+    width: 100px;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+
+}
+.g{
+    background-color: #FFFFFF;
+    height: 150px;
+    width: 100px;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+.h{
+    background-color: #CD212A;
+    height: 150px;
+    width: 100px;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+.i {
+  background-color:  #000000;
+  width: 300px;
+  height: 50px;
+}
+
+.j {
+  background-color: #DD0000;
+  width: 300px;
+  height: 50px;
+  position: relative; 
+}
+
+.k {
+  background-color:  #FFCE00;
+  width: 300px;
+  height: 50px;
+}
+.l{
+    background-color: #FF0000;
+    height: 150px;
+    width: 300px;
+}
+.m{
+    background-color: #FFFFFF;
+    height: 150px;
+    width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.m > img
+{
+    position: relative;
+    height: 100px;
+    width: 180px;
+    top: 20px;
+}
+.n {
+  background-color: #006A4E ;
+  width: 300px;
+  height: 150px;
+}
+.o
+{
+    background-color:#F42A41;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    top: 25px;
+    left: 90px
+}
